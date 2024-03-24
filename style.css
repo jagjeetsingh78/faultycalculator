@@ -1,0 +1,11 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+header{
+    text-align: center;
+    background-color: yellow;
+}
+.code{
+    max-width: max-content;
+}
